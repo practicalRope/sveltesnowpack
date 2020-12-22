@@ -1,0 +1,16 @@
+{
+  "main": "snowpack.config.js",
+  "scripts": {
+    "dev": "snowpack dev",
+    "build": "snowpack build",
+    "check": "svelte-check"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@snowpack/app-scripts-svelte": "^1.0.0",
+    "snowpack": "^2.18.5",
+    "svelte": "^3.21.0",
+    "svelte-preprocess": "^4.6.1",
+    "svelte-check": "^0.1.0"
+  }
+}
